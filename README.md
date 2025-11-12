@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a Computer Science Engineer passionate about building scalable, user-focused web applications.<br>💻 Skilled in Python (Django, DRF) and MERN stack with hands-on experience in React.js, Node.js, and cloud deployment.<br>🤖 Exploring AI/ML & Generative AI to integrate intelligence into modern web apps.<br>🚀 I love solving real-world problems through clean code and smart design.
+🎓 Results-driven Software Engineer skilled in Python, Django, and React with hands-on experience in RESTful API development, Generative AI, LangChain, OpenAI, and chatbot development. Proficient in MongoDB, PostgreSQL, and AWS for scalable deployments. Passionate about building intelligent, secure, and efficient full-stack solutions that integrate AI automation to enhance user experience and business innovation.
 
 
 ## 🌐 Socials:
