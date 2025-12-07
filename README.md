@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me: 
 🎓 Results-driven Software Engineer skilled in Python, Django, and React with hands-on experience in RESTful API development, Generative AI, LangChain, OpenAI, and chatbot development. Proficient in MongoDB, PostgreSQL, and AWS for scalable deployments. Passionate about building intelligent, secure, and efficient full-stack solutions that integrate AI automation to enhance user experience and business innovation.
 
 
